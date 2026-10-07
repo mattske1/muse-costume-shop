@@ -1,8 +1,8 @@
-# Muse Costume Shop
+# Palm & Fury Costume Shop
 
-Free Halloween costumes for Muse avatars. No app, no plugin, no integration —
-the costume is the images. Show your Muse a pack folder and say
-**"wear this for Halloween."**
+Free Halloween costumes for Muse avatars, from Palm & Fury. No app, no
+plugin, no integration — the costume is the images. Show your Muse a pack
+folder and say **"wear this for Halloween."**
 
 ## How it works
 
@@ -20,10 +20,13 @@ the costume is the images. Show your Muse a pack folder and say
 | Dracula — cape, fangs, blood packets | [collections/halloween-2026/dracula](collections/halloween-2026/dracula) |
 | Mummy — linen wraps, shroud, ankh | [collections/halloween-2026/mummy](collections/halloween-2026/mummy) |
 | Presidents — Lincoln, Washington, Madison masks | [collections/halloween-2026/presidents](collections/halloween-2026/presidents) |
-
-More packs in the works: Popeye, Sherlock Holmes, Tintin, Betty Boop,
-Felix the Cat, Zorro, Frankenstein. See [DESIGN-GUIDE.md](DESIGN-GUIDE.md)
-for the concept art.
+| Popeye — sailor cap, squint, pipe | [collections/halloween-2026/popeye](collections/halloween-2026/popeye) |
+| Sherlock Holmes — deerstalker, cape, magnifier | [collections/halloween-2026/sherlock](collections/halloween-2026/sherlock) |
+| Tintin — quiff, blue sweater, plus-fours | [collections/halloween-2026/tintin](collections/halloween-2026/tintin) |
+| Betty Boop — bob wig, red dress, garter | [collections/halloween-2026/bettyboop](collections/halloween-2026/bettyboop) |
+| Felix the Cat — head mask, bodysuit, tail | [collections/halloween-2026/felix](collections/halloween-2026/felix) |
+| Zorro — hat, mask, cape, sword | [collections/halloween-2026/zorro](collections/halloween-2026/zorro) |
+| Frankenstein's Monster — bolts, tattered suit | [collections/halloween-2026/frankenstein](collections/halloween-2026/frankenstein) |
 
 ## Make your own
 
